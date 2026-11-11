@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Dheeraj%20Chingunde&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%26%20Backend%20Engineer&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="Dheeraj Chingunde: AI & Backend Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Dheeraj%20Chingunde&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20%26amp%3B%20Backend%20Engineer&descSize=20&descAlignY=58&descAlign=50" width="100%" alt="Dheeraj Chingunde: AI & Backend Engineer" />
 </p>
 
 <!-- Typing animation -->
