@@ -18,14 +18,13 @@
 | [**FraudGraph**](https://github.com/Eyeroniq/fraudGraphAi) | Pre-authorisation payment risk service: approve / step-up / review / block by expected cost, with graph features and conformal prediction. 0.12 ms p95. | Python · ML |
 | [**SageCLI**](https://github.com/Eyeroniq/SageCLI) | Offline plain-English → Bash using a local Phi-3 Mini model, with a safety layer and a sandbox preview. No cloud, no telemetry. | Python · local LLM |
 | [**Super Saint**](https://github.com/Eyeroniq/supersaint) | Full-stack e-commerce store with an admin dashboard and Razorpay payments. | TypeScript · React · Node · MongoDB |
-| [**Task Manager**](https://github.com/Eyeroniq/task-manager) | Full-stack task manager with RBAC, activity logging and real-time updates. | TypeScript · React · Express · PostgreSQL |
 
 ### Tech I work with
 
 - **Languages:** Python, C++, Java, TypeScript, JavaScript
 - **Systems:** storage engines (LSM-tree, WAL, SSTables), crash recovery, performance benchmarking
 - **AI / ML:** RAG, LLM APIs, local models (Ollama, Phi-3), vector search (Qdrant), classical ML
-- **Backend:** FastAPI, Node.js, Express, REST APIs, Celery, Redis, JWT auth, Socket.IO
-- **Data:** PostgreSQL (Prisma), MongoDB
-- **Frontend:** React, Vite, Redux Toolkit, TanStack Query
+- **Backend:** FastAPI, Node.js, Express, REST APIs, Celery, JWT auth
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Frontend:** React, Vite, Redux Toolkit, Tailwind CSS
 - **Tooling:** Docker, GitHub Actions, Git
