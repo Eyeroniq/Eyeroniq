@@ -21,9 +21,9 @@
 
 ### Tech I work with
 
-**Languages:** Python, TypeScript, JavaScript
-**AI / ML:** RAG, LLM APIs, local models (Ollama, Phi-3), vector search (Qdrant), classical ML
-**Backend:** Node.js, Express, REST APIs, JWT auth, Socket.IO
-**Data:** PostgreSQL (Prisma), MongoDB
-**Frontend:** React, Vite, Redux Toolkit, TanStack Query
-**Tooling:** Docker, GitHub Actions, Git
+- **Languages:** Python, TypeScript, JavaScript
+- **AI / ML:** RAG, LLM APIs, local models (Ollama, Phi-3), vector search (Qdrant), classical ML
+- **Backend:** FastAPI, Node.js, Express, REST APIs, Celery, Redis, JWT auth, Socket.IO
+- **Data:** PostgreSQL (Prisma), MongoDB
+- **Frontend:** React, Vite, Redux Toolkit, TanStack Query
+- **Tooling:** Docker, GitHub Actions, Git
