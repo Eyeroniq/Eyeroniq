@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dheeraj Chingunde: AI & Backend Engineer" />
+  <img src="./assets/banner-v2.svg" width="100%" alt="Dheeraj Chingunde: AI & Backend Engineer" />
 </p>
 
 <!-- Typing animation -->
